@@ -1,0 +1,8 @@
+***SETUP FILE***
+150-L40_18.txt
+C:\Users\Mathieu KERGOAT\Documents\ENSTA Bretagne\2Stage_Assistant-Ingenieur\DSC Results\150-L40
+n
+n
+7
+14.5
+332.5

@@ -1,0 +1,7 @@
+***SETUP FILE***
+828-3140_15.1.txt
+C:\Users\Mathieu KERGOAT\Documents\ENSTA Bretagne\2Stage_Assistant-Ingenieur\DSC Results\828-3140_data
+n
+n
+50
+200
